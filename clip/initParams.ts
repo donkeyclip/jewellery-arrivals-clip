@@ -12,7 +12,7 @@ export default [
       products: [
         {
           image:
-            "assets/image1.jpg",
+            "https://donkeyclip.github.io/jewellery-arrivals-clip/server/assets/image1.jpg",
           title: "Betty Hoop Earrings",
           description:
             "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
@@ -22,7 +22,7 @@ export default [
         },
         {
           image:
-          "assets/image2.jpg",
+          "https://donkeyclip.github.io/jewellery-arrivals-clip/server/assets/image2.jpg",
           title: "Premium Candle",
           description:
             "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
@@ -32,7 +32,7 @@ export default [
         },
         {
           image:
-          "assets/image3.jpg",
+          "https://donkeyclip.github.io/jewellery-arrivals-clip/server/assets/image3.jpg",
           title: "Body Shaped Candle",
           description: 
             "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
