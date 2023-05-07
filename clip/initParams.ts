@@ -4,7 +4,7 @@ export default [
     value: {
       backgroundColor:"#EADCCF",
       primaryColor:"#6F5F52",
-      secondaryColor:"",
+      secondaryColor:"#fff",
       fontColor:"#6F5F52",
       title:"New Arrivals",
       subtitle:" It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
